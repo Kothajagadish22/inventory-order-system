@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Node
+node_modules/
+dist/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+
+# Docker
+*.log
+
+# Local assignment brief (optional — keep locally if you prefer)
+Technical Assessment (Software Engineer).docx
